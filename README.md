@@ -1,2 +1,2 @@
-# Graphix.github.io
+# Graphixd.github.io
 Affiliate website
